@@ -4,7 +4,7 @@ pygments: true
 source: .
 permalink: /:title/
 baseurl: "/"
-url: "http://exotericgroup.github.io"
+url: "exotericgroup.github.io"
 exclude:
 - ".*"
 - "*.md"
